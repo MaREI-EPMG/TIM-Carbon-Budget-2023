@@ -5,8 +5,17 @@
       "seriesName": "DMD_TRA-R-AVIDOM",
       "seriesValues": [
         [
-          2021,
-          0.022716049382716
+          2022,
+          0.0213865051606993
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-R-AVIINT",
+      "seriesValues": [
+        [
+          2022,
+          4.90720056037134
         ]
       ]
     }
